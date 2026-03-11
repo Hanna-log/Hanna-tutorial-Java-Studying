@@ -28,9 +28,6 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 ...
 
 ***
- 📚 **Global Readiness**
-Documenting my progress in English to prepare for future international career opportunities.
-***
  🗺️ **2026 Roadmap**
 * **Phase 1 (Pre-course)**: Complete self-study of 'Hon-Gong-Ja' (2-3 rounds) before May.
 
