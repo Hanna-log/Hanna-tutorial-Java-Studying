@@ -17,6 +17,12 @@ This repository is my "first step" dedicated to mastering the basics and buildin
 Core Concepts: Variables, Types, Control Statements, Classes, Inheritance, Interfaces, and Exception Handling.
 
 Proficiency: Developing a deep understanding of Java's essential syntax and object-oriented principles.
+
+[x] Chapter 01. Getting started with Java
+[ ] Chapter 02. Variables and Types
+[ ] Chapter 03. operator
+...
+
 ***
  📚 **Global Readiness**
 Documenting my progress in English to prepare for future international career opportunities.
