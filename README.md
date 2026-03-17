@@ -18,6 +18,7 @@ Core Concepts: Variables, Types, Control Statements, Classes, Inheritance, Inter
 
 Proficiency: Developing a deep understanding of Java's essential syntax and object-oriented principles.
 
+
 [x] Chapter 01. Getting started with Java (자바 시작하기) - 3/3 ~ 3/5
 
 [x] Chapter 02. Variables and Types (변수와 타입) - 3/6 ~ 3/12
@@ -48,6 +49,7 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 
 
 ***
+
  🗺️ **2026 Roadmap**
 * **Phase 1 (Pre-course)**: Complete self-study of 'Hon-Gong-Ja' (2-3 rounds) before May.
 
