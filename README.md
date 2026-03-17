@@ -10,14 +10,17 @@ I am currently self-studying using a renowned Korean introductory book, 'Java Se
 My goal is to complete 2-3 full cycles of basic concepts before enrolling in a government-supported Java & Spring Bootcamp starting this May.
 
 This repository is my "first step" dedicated to mastering the basics and building a solid foundation to become a professional Java developer.
+<br>
 
 ***
+<br>
 
  🎯 **Learning Objectives**: Mastering 'Java Self-Study'
 Core Concepts: Variables, Types, Control Statements, Classes, Inheritance, Interfaces, and Exception Handling.
 
 Proficiency: Developing a deep understanding of Java's essential syntax and object-oriented principles.
-
+<br>
+<br>
 
 [x] Chapter 01. Getting started with Java (자바 시작하기) - 3/3 ~ 3/5
 
@@ -47,6 +50,7 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 
 [ ] Chapter 14. IO-Streams (입출력 스트림)
 
+<br>
 
 ***
 
