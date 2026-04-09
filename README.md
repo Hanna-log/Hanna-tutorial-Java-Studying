@@ -34,11 +34,11 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 
 [x] Chapter 03. Operator (연산자) - 3/13
 
-[x] Chapter 04. Conditionals and Loops (조건문과 반복문)
+[x] Chapter 04. Conditionals and Loops (조건문과 반복문) 3/17 ~ 3/18
 
-[x] Chapter 05. Reference Types (참조 타입)
+[x] Chapter 05. Reference Types (참조 타입) 3/19 ~ 3/27
 
-[x] Chapter 06. Classes (클래스)
+[x] Chapter 06. Classes (클래스) 3/28~
 
 [ ] Chapter 07. Inheritance (상속)
 
